@@ -41,6 +41,8 @@
 
 ?>
 
+<!-- realizar correção do bug da msg de alerta quando o usuário preenche login errado -->
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
